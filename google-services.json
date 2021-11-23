@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "196349212549",
+    "firebase_url": "https://snshoppinglistwithfirebase-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "snshoppinglistwithfirebase",
+    "storage_bucket": "snshoppinglistwithfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196349212549:android:a2bf12f0fa3160486df6ec",
+        "android_client_info": {
+          "package_name": "niskasam.snShoppingListWithFirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "196349212549-onsipjn0i649qihsbp858ee7jt329b9r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNoXik-kmprHmie8fcnLMuFYi6REm_-P8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "196349212549-onsipjn0i649qihsbp858ee7jt329b9r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
